@@ -1,0 +1,1369 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+learnAid
+</name>
+</assembly>
+<members>
+<member name="M:learnAid.Forms.UserLoginForms.frmLogin.frmLogin_Load(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+           Called By: frmMain.Main()
+ </remarks>
+</member><member name="T:learnAid.LADataSet._scansDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scans_AIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scans2009DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHist_AIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.a_scansDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.AnswersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Answers2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.AptitudDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResEstDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResultadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ClavesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.CocienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.CONSULTANTSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.DefaultsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.DestrezasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.FacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Factura_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.FiveYearsDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.JobsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.LOGSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.MateriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NominaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_GeneralDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_TemplateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_Template2003_2004DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.nomina_typesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.normaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.normas_bakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Normas_oldexpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._Normas_BackUp_Con_Nuevo_NV_23_NV_34_DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._normas11_03_04DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasToolDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.observacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_GroupsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Pep_InteresesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_NormasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_Normas_CopyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PREJOBSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.RangosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.REP_OBSERVACIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ResEstDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ResultadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.SCHOOLSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_ComparativoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_Comparativo_GrupalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet.USERSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scans_AIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scans2009Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHist_AIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.a_scansRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.AnswersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Answers2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.AptitudRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResEstRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResultadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ClavesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.CocienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.CONSULTANTSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.DefaultsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.DestrezasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.FacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Factura_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.FiveYearsDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.JobsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.LOGSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.MateriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NominaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_GeneralRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_TemplateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_Template2003_2004Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.nomina_typesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.normaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.normas_bakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Normas_oldexpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._Normas_BackUp_Con_Nuevo_NV_23_NV_34_Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._normas11_03_04Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasToolRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.observacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_GroupsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.Pep_InteresesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_NormasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_Normas_CopyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.PREJOBSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.RangosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.REP_OBSERVACIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ResEstRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.ResultadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.SCHOOLSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_ComparativoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_Comparativo_GrupalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet.USERSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:learnAid.LADataSet._scansRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._scans_AIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._scans2009RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._scansHist_AIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.a_scansRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.AnswersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Answers2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.AptitudRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResEstRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.bkp_ResultadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.ClavesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.CocienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.CONSULTANTSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.DefaultsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.DestrezasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.FacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Factura_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.FiveYearsDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.JobsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.LOGSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.MateriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.NominaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_DetailxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_GeneralRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_TemplateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Nomina_Template2003_2004RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.nomina_typesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.normaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.normas_bakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Normas_oldexpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._Normas_BackUp_Con_Nuevo_NV_23_NV_34_RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet._normas11_03_04RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.NormasToolRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.observacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_GroupsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.Pep_InteresesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_NormasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.PEP_Normas_CopyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.PREJOBSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.RangosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.REP_OBSERVACIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.ReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.ResEstRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.ResultadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.SCHOOLSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_ComparativoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.TMP_Comparativo_GrupalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet.USERSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:learnAid.LADataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters._scansTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters._scans_AIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters._scans2009TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters._scansHistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters._scansHist_AIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.a_scansTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.AnswersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Answers2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.AptitudTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.bkp_ReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.bkp___________________________TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.bkp_ResultadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.ClavesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.CocienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.CONSULTANTSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.DefaultsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.DestrezasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.FacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Factura_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.FiveYearsDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.JobsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.LOGSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.MateriasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.NominaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Nomina_DetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Nomina_DetailxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Nomina_GeneralTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Nomina_TemplateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Nomina_Template2003_2004TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.nomina_typesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.normaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.NormasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.normas_bakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Normas_oldexpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Normas_BackUp_Con_Nuevo_NV_23_NV_34_TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.normas11_03_04TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.NormasToolTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.observacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.PEP_GroupsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.Pep_InteresesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.PEP_NormasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.PEP_Normas_CopyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.PREJOBSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.RangosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.REP_OBSERVACIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.ReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.ResEstTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.ResultadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.SCHOOLSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.TMP_ComparativoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.TMP_Comparativo_GrupalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.USERSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:learnAid.LADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(learnAid.LADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:learnAid.LADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(learnAid.LADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:learnAid.LADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(learnAid.LADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:learnAid.LADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:learnAid.LADataSetTableAdapters.TableAdapterManager.UpdateAll(learnAid.LADataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:learnAid.LADataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:learnAid.Stanines.GetNorms(System.Double@,System.Int16@,System.Double@,System.Double@,System.Double@,System.Double@,ADODB.Connection@)">
+	<param name="dClave"></param>
+	<param name="iSem"></param>
+	<param name="dDev"></param>
+	<param name="dLowDev"></param>
+	<param name="dMean"></param>
+	<param name="iGrade"></param>
+	<param name="ConnStr"></param>
+	<remarks>
+           Called By: SetStanines
+ </remarks>
+</member><member name="M:learnAid.Stanines.GetPotFormula(System.Double@)">
+	<param name="iScID"></param>
+	<returns></returns>
+	<remarks>
+          Called By:  Stanines.SetStanines()
+ </remarks>
+</member><member name="P:learnAid.Forms.InheritableForms.frmBaseWithNoCloseButton.CreateParams">
+	<summary>
+ Disable the Close Button
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:learnAid.frmReportView.frmReportView_Resize(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+           Called By: frmMain.rbEvaluation_Click() -- frmReport_Show()
+ </remarks>
+</member><member name="M:learnAid.frmReportView.Fill2">
+	<remarks>
+            Called By: frmReportView_Load()
+ </remarks>
+</member><member name="M:learnAid.frmReportView.SetControls">
+	<remarks>
+           Called By: frmReportView.Resize()
+ </remarks>
+</member><member name="P:learnAid.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources._new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.address_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.address_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.APPTL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.briefcase_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.BtnDown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.BtnDown1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.BtnUp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.consultants">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.consultants32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.CONTACTL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.CONTACTL_64x64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.edit_job">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.learnaid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.LearnAid_DivisionLogo_Main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.learnaid_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.learnaid_logo_sm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.learnaid_logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.learnaid_logo3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.new1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.options">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.pencil_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.POINT09">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.print_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.Process">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.ProcessAll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.properties">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.RESENDL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.RESENDL_64x64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.school">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.school_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.school_64x64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.school_72x72">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.search_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.user_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.user_321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.view_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:learnAid.My.Resources.Resources.warning">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:learnAid.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:learnAid.frmCreateReport.frmCreateReport_Load(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+           Called By: frmReportView.ToolBar1.ButtonMenu_Click()
+ </remarks>
+</member><member name="M:learnAid.frmCreateReport.cboSemester_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+          Called By: LA_Declarations.GetSemester()
+ </remarks>
+</member><member name="M:learnAid.frmCreateReport.txtYear_TextChanged(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+          Called By frmCreateReport.Form_Load()
+ </remarks>
+</member><member name="M:learnAid.frmCreateReport.CreateRegular">
+	<summary>
+	</summary>
+	<remarks>
+          'Called By: frmCreateReport.cmdContinue_Click()
+ </remarks>
+</member><member name="M:learnAid.frmCreateReport.SetButtons">
+	<remarks>
+           Called By: frmCreateReport.txtYear_TextChanged()
+           Called By: frmCreateReport.cboSchool.SelectedIndex_Changed()
+           Called By: frmCreateReport.cboSemester.SelectedIndex_Changed()
+ </remarks>
+</member><member name="M:learnAid.frmCreateReport.FillJobsPending">
+	<remarks>
+          Called By: frmCreateReport.SetButtons()
+ </remarks>
+</member><member name="M:learnAid.frmMain.frmMain_Load(System.Object,System.EventArgs)">
+	<remarks>
+          This is where the main program starts
+ </remarks>
+</member><member name="M:learnAid.frmPrintReport.frmPrintReport_Load(System.Object,System.EventArgs)">
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks>
+            Called By: frmReportView.ToolBar1.Button_Click()
+ </remarks>
+</member><member name="M:learnAid.frmPrintReport.cmdContinue_Click(System.Object,System.EventArgs)">
+	<summary>
+   This is the second print button on the form.
+   Top row, second from the left
+ </summary>
+	<param name="eventSender"></param>
+	<param name="eventArgs"></param>
+	<remarks></remarks>
+</member><member name="M:learnAid.frmPrintReport.LoadData">
+	<remarks>
+           Called By: frmPrintReport_Load()                  
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetPrivateProfileString(System.String,System.String,System.String,System.String,System.Int32,System.String)">
+	<param name="lpApplicationName"></param>
+	<param name="lpKeyName"></param>
+	<param name="lpDefault"></param>
+	<param name="lpReturnedString"></param>
+	<param name="nSize"></param>
+	<param name="lpFileName"></param>
+	<remarks>
+           Called By: LA_Declarations.GetINIValue()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.Init">
+	<remarks>
+           Called By: frmMain.Main()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetSystemSettings">
+	<remarks>
+            Called By: LA_Declarations.Init()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetConnectionString(System.String@,System.String@,System.String@,System.String@,System.Boolean@)">
+	<param name="userId"></param>
+	<param name="password"></param>
+	<param name="databaseName"></param>
+	<param name="dataSource"></param>
+	<param name="blankPassword"></param>
+	<returns>
+           Returns the connection string
+ </returns>
+	<remarks>
+           Called By: LA_Declarations.GetSystemSettings()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetINIValue(System.String,System.String,System.String)">
+	<param name="INIFile"></param>
+	<param name="Section"></param>
+	<param name="Entry"></param>
+	<remarks>
+           Called By: LA_Declaractions.GetSystemSettings()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetNextFacID">
+	<returns></returns>
+	<remarks>
+          Called By: LA_Declarations.CreateReport()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.PreviewReport(System.Int32@)">
+	<summary>
+	</summary>
+	<param name="ReportID"></param>
+	<remarks>
+           Called By: frmPrintReport.cmdContinue_Click()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.PrintReport(System.Int32@)">
+	<param name="ReportID"></param>
+	<remarks>
+           Called By: frmPrintReport.cmdContinue_Click()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.ItemIsInList(System.Windows.Forms.ComboBox@)">
+	<summary>
+ Checks whether the item is in list or not
+ </summary>
+	<param name="Cbox"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:learnAid.LA_Declarations.CreateReport(System.Int16,System.Int32,System.Int16,System.Int16,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int16,System.Int16,System.Int16,System.Int16)">
+	<param name="RepType"></param>
+	<param name="Sch_ID"></param>
+	<param name="RepYear"></param>
+	<param name="Sem"></param>
+	<param name="Indiv"></param>
+	<param name="MID_Renamed"></param>
+	<param name="Destrezas"></param>
+	<param name="Comp"></param>
+	<param name="Invoice"></param>
+	<param name="Regular"></param>
+	<param name="FromGrade"></param>
+	<param name="ToGrade"></param>
+	<param name="AcomodoRazonable"></param>
+	<param name="Reposition"></param>
+	<remarks>
+           'Called By: frmCreateReport.CreateRegular()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.JobsNotCompleted(System.Int16,System.Int32,System.Int16,System.Int16,System.Int16,System.Int16)">
+	<param name="RepType"></param>
+	<param name="Sch"></param>
+	<param name="RepYear"></param>
+	<param name="Sem"></param>
+	<param name="AcomodoRazonable"></param>
+	<param name="pep"></param>
+	<returns></returns>
+	<remarks>
+          Called By: frmCreateReport.CreateRegular()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.CreateResultados(System.Int16,System.Int32,System.Int16,System.Int16,System.Int32,System.Int16,System.Int32,System.Double,System.DateTime,System.Int16)">
+	<param name="RepType"></param>
+	<param name="Sch"></param>
+	<param name="RepYear"></param>
+	<param name="Sem"></param>
+	<param name="Rep_ID"></param>
+	<param name="iGrade"></param>
+	<param name="F_ID"></param>
+	<param name="Fac_Total"></param>
+	<param name="Serv_Date"></param>
+	<param name="AcomodoRazonable"></param>
+	<remarks>
+          Called By: LA_Declarations.CreateReport()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.FillConsultantCBox(System.Windows.Forms.ComboBox@,System.Boolean,learnAid.LA_Declarations.enumConsultantType)">
+	<summary>
+ Fill Consultant Combo Box
+ </summary>
+	<param name="Cbox"></param>
+	<param name="ConsultantType"></param>
+	<remarks></remarks>
+</member><member name="M:learnAid.LA_Declarations.GetGradeName(System.Int16)">
+	<param name="iGrade"></param>
+	<returns>
+           Grade Name
+ </returns>
+	<remarks>
+            Called By: frmCreateReport.FillJobsPending()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetGradeNo(System.Int16)">
+	<summary>
+ Get Grade by Number
+ </summary>
+	<param name="iGrade"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:learnAid.LA_Declarations.GetSemester(System.Int16)">
+	<param name="iSemester"></param>
+	<returns></returns>
+	<remarks>
+          Called By: frmReportView.Fill2()
+          Called By: LA_Declarations.FillSemesterBox()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetReportType(System.Int16)">
+	<param name="ReportType"></param>
+	<returns>
+          Report Type as String
+ </returns>
+	<remarks>
+          Called By: frmReportView.Fill2()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.FillSchoolCbox(System.Windows.Forms.ComboBox@)">
+	<param name="Cbox"></param>
+	<remarks>
+          Called By: frmCreateReport.Load()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.FillSemesterCbox(System.Windows.Forms.ComboBox@)">
+	<param name="Cbox"></param>
+	<remarks>
+          Called By: frmCreateReport_Load()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.INIField(System.String,System.String,System.Int32)">
+	<param name="Text"></param>
+	<param name="Delim"></param>
+	<param name="Occur"></param>
+	<returns></returns>
+	<remarks>
+           Called By: LA_Declarations.GetINIValue()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetValue(System.Object@,System.Object@)">
+	<summary>
+	</summary>
+	<param name="s"></param>
+	<param name="OnNullValue"></param>
+	<returns></returns>
+	<remarks>
+           Called By: frmReportView.Fill2()
+           Called By: frmCreateReport.FillJobsPending()
+           Called By: Stanines.GetStanines()
+           Called By: frmPrintReport.LoadData() [2 Calls]
+           Called By: LA_Declarations.PreviewReport()
+           Called By: LA_Declarations.PrintReport()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetAppPath">
+	<returns>
+           Returns the system path
+ </returns>
+	<remarks>
+           Called By: LA_Declarations.GetSystemSettings()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.GetIDFromKey(System.String@)">
+	<param name="Key"></param>
+	<returns>
+            intTemp
+ </returns>
+	<remarks>
+            Called By: frmReportView.Toolbar1_ButtonClick()
+ </remarks>
+</member><member name="M:learnAid.LA_Declarations.OpenConnection(ADODB.Connection@,System.String@)">
+	<summary>
+ Open Database Connection
+ NOTE: THIS WILL BE DEPRECIATED IN FAVOR OF STRAIGHT SQL
+ </summary>
+	<param name="Cn"></param>
+	<param name="CS"></param>
+	<remarks>
+           Called By: frmReportView.Fill2()
+           Called By: frmCreateReport.FillJobsPending()
+           Called By: LA_Declarations.JobsNotCompleted()
+           Called By: LA_Declarations.CreateReport()
+           Called By: LA_Declarations.GetNextFacID()
+           Called By: LA_Declarations.CreateResultados()
+           Called By: Statnines.GetPotFormula()
+           Called By: frmPrintReport.LoadData()
+           Called By: frmPrintReport.cmdContinue()
+           Called By: LA_Declarations.PreviewReport()
+ </remarks>
+</member><member name="M:learnAid.Forms.MasterForms.frmSchools.FillList">
+	<summary>
+	</summary>
+	<remarks>
+            'Called By: frmSchools_Load()
+ </remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,1 @@
+Cn Error.0..CN=Data Source=SERVER3\LEARNAID;Initial Catalog=LA;

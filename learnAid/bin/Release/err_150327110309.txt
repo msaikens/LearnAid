@@ -1,0 +1,1 @@
+Cn Error.0..CN=Server=SERVER3\LEARNAID;Database=LA;User ID=sa

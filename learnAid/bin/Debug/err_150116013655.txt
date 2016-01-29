@@ -1,0 +1,1 @@
+Cn Error.0..CN=Provider=MSDASQL.1;Persist Security Info=False;User ID=sa;Data Source=SERVER3\LEARNAID;Initial Catalog=LA

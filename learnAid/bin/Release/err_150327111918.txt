@@ -1,0 +1,1 @@
+Cn Error.0..CN=Provider=SQLNCL11;Server=SERVER3\LEARNAID;Database=LA;User ID=sa;DataCompatibility=80;
